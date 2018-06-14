@@ -2,5 +2,9 @@ Manifest-Version: 1.0
 AutoUpdate-Show-In-Client: false
 OpenIDE-Module: org.netbeans.modules.versioning.masterfs
 OpenIDE-Module-Localizing-Bundle: org/netbeans/modules/versioning/masterfs/Bundle.properties
+<<<<<<< HEAD
 OpenIDE-Module-Specification-Version: 1.17
+=======
+OpenIDE-Module-Specification-Version: 1.16.1
+>>>>>>> release90
 

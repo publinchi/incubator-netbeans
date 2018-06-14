@@ -1,5 +1,9 @@
 Manifest-Version: 1.0
 OpenIDE-Module: org.netbeans.modules.masterfs.nio2
 OpenIDE-Module-Localizing-Bundle: org/netbeans/modules/masterfs/watcher/nio2/Bundle.properties
+<<<<<<< HEAD
 OpenIDE-Module-Specification-Version: 1.18
+=======
+OpenIDE-Module-Specification-Version: 1.17.1
+>>>>>>> release90
 OpenIDE-Module-Provides: org.netbeans.modules.masterfs.providers.Notifier

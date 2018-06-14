@@ -1,7 +1,11 @@
 Manifest-Version: 1.0
 OpenIDE-Module: org.openidex.util/3
 OpenIDE-Module-Localizing-Bundle: org/openidex/resources/Bundle.properties
+<<<<<<< HEAD
 OpenIDE-Module-Specification-Version: 3.50
+=======
+OpenIDE-Module-Specification-Version: 3.49.1
+>>>>>>> release90
 OpenIDE-Module-Deprecated: true
 OpenIDE-Module-Deprecation-Message: Module o.openidex.util is deprecated, use module api.search instead.
 AutoUpdate-Essential-Module: true

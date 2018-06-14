@@ -1,6 +1,10 @@
 Manifest-Version: 1.0
 OpenIDE-Module: org.netbeans.modules.debugger.jpda.ant
+<<<<<<< HEAD
 OpenIDE-Module-Specification-Version: 1.41
+=======
+OpenIDE-Module-Specification-Version: 1.40.1
+>>>>>>> release90
 OpenIDE-Module-Localizing-Bundle: org/netbeans/modules/debugger/jpda/ant/Bundle.properties
 OpenIDE-Module-Package-Dependencies: com.sun.jdi[VirtualMachineManager]
 

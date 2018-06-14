@@ -3,6 +3,10 @@ AutoUpdate-Show-In-Client: false
 OpenIDE-Module: org.netbeans.modules.mylyn.util
 OpenIDE-Module-Layer: org/netbeans/modules/mylyn/util/resources/layer.xml
 OpenIDE-Module-Localizing-Bundle: org/netbeans/modules/mylyn/util/Bundle.properties
+<<<<<<< HEAD
 OpenIDE-Module-Specification-Version: 1.39
+=======
+OpenIDE-Module-Specification-Version: 1.38.1
+>>>>>>> release90
 OpenIDE-Module-Install: org/netbeans/modules/mylyn/util/internal/ModuleLifecycleManager.class
 

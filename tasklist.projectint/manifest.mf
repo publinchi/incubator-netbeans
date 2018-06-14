@@ -2,6 +2,10 @@ Manifest-Version: 1.0
 OpenIDE-Module: org.netbeans.modules.tasklist.projectint/1
 OpenIDE-Module-Layer: org/netbeans/modules/tasklist/projectint/layer.xml
 OpenIDE-Module-Localizing-Bundle: org/netbeans/modules/tasklist/projectint/Bundle.properties
+<<<<<<< HEAD
 OpenIDE-Module-Specification-Version: 1.32
+=======
+OpenIDE-Module-Specification-Version: 1.31.1
+>>>>>>> release90
 AutoUpdate-Show-In-Client: false
 

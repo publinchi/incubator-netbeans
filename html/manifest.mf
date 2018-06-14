@@ -2,6 +2,10 @@ Manifest-Version: 1.0
 OpenIDE-Module: org.netbeans.modules.html/1
 OpenIDE-Module-Localizing-Bundle: org/netbeans/modules/html/Bundle.properties
 OpenIDE-Module-Layer: org/netbeans/modules/html/mf-layer.xml
+<<<<<<< HEAD
 OpenIDE-Module-Specification-Version: 1.64
+=======
+OpenIDE-Module-Specification-Version: 1.63.1
+>>>>>>> release90
 OpenIDE-Module-Needs: javax.script.ScriptEngine.freemarker
 AutoUpdate-Show-In-Client: false

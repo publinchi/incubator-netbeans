@@ -1,6 +1,10 @@
 Manifest-Version: 1.0
 OpenIDE-Module: org.netbeans.core.osgi
 OpenIDE-Module-Localizing-Bundle: org/netbeans/core/osgi/Bundle.properties
+<<<<<<< HEAD
 OpenIDE-Module-Specification-Version: 1.25
+=======
+OpenIDE-Module-Specification-Version: 1.24.1
+>>>>>>> release90
 AutoUpdate-Essential-Module: true
 

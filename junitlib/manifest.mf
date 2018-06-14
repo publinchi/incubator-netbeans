@@ -3,5 +3,9 @@ AutoUpdate-Show-In-Client: true
 OpenIDE-Module: org.netbeans.modules.junitlib
 OpenIDE-Module-Layer: org/netbeans/modules/junitlib/layer.xml
 OpenIDE-Module-Localizing-Bundle: org/netbeans/modules/junitlib/Bundle.properties
+<<<<<<< HEAD
 OpenIDE-Module-Specification-Version: 1.7
+=======
+OpenIDE-Module-Specification-Version: 1.6.1
+>>>>>>> release90
 

@@ -77,7 +77,13 @@ public class NbMavenProjectFactory implements ProjectFactory2 {
 
     public @Override ProjectManager.Result isProject2(FileObject projectDirectory) {
         if (isProject(projectDirectory)) {
-            return new ProjectManager.Result(ImageUtilities.loadImageIcon("org/netbeans/modules/maven/resources/Maven2Icon.gif", true)); //NOI18N
+            File projectDir = FileUtil.toFile(projectDirectory);
+            File project = new File(projectDir, "cobis.xml"); // NOI18N
+            if (project.isFile()) {
+                return new ProjectManager.Result(ImageUtilities.loadImageIcon("org/netbeans/modules/maven/resources/Maven2IconCobis.gif", true)); //NOI18N
+            } else {
+                return new ProjectManager.Result(ImageUtilities.loadImageIcon("org/netbeans/modules/maven/resources/Maven2Icon.gif", true)); //NOI18N
+            }
         }
         return null;
     }

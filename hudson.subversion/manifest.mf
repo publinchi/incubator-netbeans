@@ -1,5 +1,9 @@
 Manifest-Version: 1.0
 OpenIDE-Module: org.netbeans.modules.hudson.subversion
 OpenIDE-Module-Localizing-Bundle: org/netbeans/modules/hudson/subversion/Bundle.properties
+<<<<<<< HEAD
 OpenIDE-Module-Specification-Version: 1.32
+=======
+OpenIDE-Module-Specification-Version: 1.31.1
+>>>>>>> release90
 

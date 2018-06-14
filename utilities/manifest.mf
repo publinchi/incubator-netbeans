@@ -1,7 +1,11 @@
 Manifest-Version: 1.0
 OpenIDE-Module: org.netbeans.modules.utilities/1
 OpenIDE-Module-Localizing-Bundle: org/netbeans/modules/utilities/Bundle.properties
+<<<<<<< HEAD
 OpenIDE-Module-Specification-Version: 1.64
+=======
+OpenIDE-Module-Specification-Version: 1.63.1
+>>>>>>> release90
 OpenIDE-Module-Install: org/netbeans/modules/utilities/Installer.class
 OpenIDE-Module-Layer: org/netbeans/modules/utilities/Layer.xml
 OpenIDE-Module-Requires: org.openide.modules.InstalledFileLocator

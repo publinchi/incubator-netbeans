@@ -1,5 +1,9 @@
 Manifest-Version: 1.0
 OpenIDE-Module: org.openide.util.ui
 OpenIDE-Module-Localizing-Bundle: org/openide/util/Bundle.properties
+<<<<<<< HEAD
 OpenIDE-Module-Specification-Version: 9.10
+=======
+OpenIDE-Module-Specification-Version: 9.9.1
+>>>>>>> release90
 

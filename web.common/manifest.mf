@@ -1,5 +1,9 @@
 Manifest-Version: 1.0
 OpenIDE-Module: org.netbeans.modules.web.common
 OpenIDE-Module-Localizing-Bundle: org/netbeans/modules/web/common/Bundle.properties
+<<<<<<< HEAD
 OpenIDE-Module-Specification-Version: 1.101
+=======
+OpenIDE-Module-Specification-Version: 1.100.1
+>>>>>>> release90
 

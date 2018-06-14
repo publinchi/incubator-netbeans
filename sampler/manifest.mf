@@ -1,6 +1,10 @@
 Manifest-Version: 1.0
 OpenIDE-Module: org.netbeans.modules.sampler
 OpenIDE-Module-Localizing-Bundle: org/netbeans/modules/sampler/Bundle.properties
+<<<<<<< HEAD
 OpenIDE-Module-Specification-Version: 1.17
+=======
+OpenIDE-Module-Specification-Version: 1.16.1
+>>>>>>> release90
 Main-Class: org.netbeans.modules.sampler.CLISampler
 

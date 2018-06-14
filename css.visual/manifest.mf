@@ -5,4 +5,8 @@ OpenIDE-Module-Layer: org/netbeans/modules/css/visual/resources/layer.xml
 OpenIDE-Module-Localizing-Bundle: org/netbeans/modules/css/visual/Bundle.properties
 OpenIDE-Module-Requires: org.openide.windows.IOProvider
 AutoUpdate-Show-In-Client: false
+<<<<<<< HEAD
 OpenIDE-Module-Specification-Version: 3.35
+=======
+OpenIDE-Module-Specification-Version: 3.34.1
+>>>>>>> release90

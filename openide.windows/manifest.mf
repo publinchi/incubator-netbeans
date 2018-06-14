@@ -1,6 +1,10 @@
 Manifest-Version: 1.0
 OpenIDE-Module: org.openide.windows
+<<<<<<< HEAD
 OpenIDE-Module-Specification-Version: 6.79
+=======
+OpenIDE-Module-Specification-Version: 6.78.1
+>>>>>>> release90
 OpenIDE-Module-Localizing-Bundle: org/openide/windows/Bundle.properties
 AutoUpdate-Essential-Module: true
 

@@ -1,5 +1,9 @@
 Manifest-Version: 1.0
 OpenIDE-Module: org.netbeans.modules.project.ant.compat8/1
 OpenIDE-Module-Localizing-Bundle: org/netbeans/modules/project/ant/compat8/Bundle.properties
+<<<<<<< HEAD
 OpenIDE-Module-Specification-Version: 1.70
+=======
+OpenIDE-Module-Specification-Version: 1.69.1
+>>>>>>> release90
 OpenIDE-Module-Fragment-Host: org.netbeans.modules.project.ant

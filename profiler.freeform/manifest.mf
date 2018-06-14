@@ -1,4 +1,8 @@
 Manifest-Version: 1.0
 OpenIDE-Module: org.netbeans.modules.profiler.freeform/1
 OpenIDE-Module-Localizing-Bundle: org/netbeans/modules/profiler/freeform/Bundle.properties
+<<<<<<< HEAD
 OpenIDE-Module-Specification-Version: 1.38
+=======
+OpenIDE-Module-Specification-Version: 1.37.1
+>>>>>>> release90

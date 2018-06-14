@@ -3,4 +3,8 @@ AutoUpdate-Show-In-Client: false
 OpenIDE-Module: org.netbeans.modules.testng.maven
 OpenIDE-Module-Localizing-Bundle: org/netbeans/modules/testng/maven/Bundle.properties
 OpenIDE-Module-Provides: org.netbeans.modules.testng.maven.MavenTestNGSupport
+<<<<<<< HEAD
 OpenIDE-Module-Specification-Version: 2.19
+=======
+OpenIDE-Module-Specification-Version: 2.18.1
+>>>>>>> release90

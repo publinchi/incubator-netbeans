@@ -5,5 +5,9 @@ OpenIDE-Module-Localizing-Bundle: org/netbeans/modules/profiler/Bundle.propertie
 OpenIDE-Module-Install: org/netbeans/modules/profiler/ProfilerModule.class
 OpenIDE-Module-Requires: org.openide.windows.WindowManager
 OpenIDE-Module-Package-Dependencies: com.sun.tools.attach[VirtualMachine]
+<<<<<<< HEAD
 OpenIDE-Module-Specification-Version: 3.32
+=======
+OpenIDE-Module-Specification-Version: 3.31.1
+>>>>>>> release90
 

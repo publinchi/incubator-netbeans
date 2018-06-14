@@ -1,5 +1,9 @@
 Manifest-Version: 1.0
 OpenIDE-Module: org.netbeans.modules.java.testrunner.ant
 OpenIDE-Module-Localizing-Bundle: org/netbeans/modules/java/testrunner/ant/Bundle.properties
+<<<<<<< HEAD
 OpenIDE-Module-Specification-Version: 1.5
+=======
+OpenIDE-Module-Specification-Version: 1.4.1
+>>>>>>> release90
 

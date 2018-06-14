@@ -3,5 +3,9 @@ AutoUpdate-Show-In-Client: false
 OpenIDE-Module: org.netbeans.modules.bugtracking
 OpenIDE-Module-Layer: org/netbeans/modules/bugtracking/layer.xml
 OpenIDE-Module-Localizing-Bundle: org/netbeans/modules/bugtracking/Bundle.properties
+<<<<<<< HEAD
 OpenIDE-Module-Specification-Version: 1.112
+=======
+OpenIDE-Module-Specification-Version: 1.111.1
+>>>>>>> release90
 Netigso-Export-Package: org.netbeans.modules.bugtracking.api,org.netbeans.modules.bugtracking.spi

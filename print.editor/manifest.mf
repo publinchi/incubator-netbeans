@@ -1,5 +1,9 @@
 Manifest-Version: 1.0
 AutoUpdate-Show-In-Client: false
+<<<<<<< HEAD
 OpenIDE-Module-Specification-Version: 7.29
+=======
+OpenIDE-Module-Specification-Version: 7.28.1
+>>>>>>> release90
 OpenIDE-Module: org.netbeans.modules.print.editor
 OpenIDE-Module-Localizing-Bundle: org/netbeans/modules/print/editor/resources/Bundle.properties

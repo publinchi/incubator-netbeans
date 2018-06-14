@@ -2,5 +2,9 @@ Manifest-Version: 1.0
 OpenIDE-Module: org.netbeans.modules.maven.apisupport/1
 OpenIDE-Module-Localizing-Bundle: org/netbeans/modules/maven/apisupport/Bundle.properties
 AutoUpdate-Show-In-Client: false
+<<<<<<< HEAD
 OpenIDE-Module-Specification-Version: 1.62
+=======
+OpenIDE-Module-Specification-Version: 1.61.1
+>>>>>>> release90
 

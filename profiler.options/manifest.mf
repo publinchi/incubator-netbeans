@@ -3,5 +3,9 @@ AutoUpdate-Show-In-Client: false
 OpenIDE-Module: org.netbeans.modules.profiler.options
 OpenIDE-Module-Localizing-Bundle: org/netbeans/modules/profiler/options/Bundle.properties
 OpenIDE-Module-Recommends: org.netbeans.modules.options.java
+<<<<<<< HEAD
 OpenIDE-Module-Specification-Version: 1.22
+=======
+OpenIDE-Module-Specification-Version: 1.21.1
+>>>>>>> release90
 

@@ -1,6 +1,10 @@
 Manifest-Version: 1.0
 OpenIDE-Module: org.openide.execution
+<<<<<<< HEAD
 OpenIDE-Module-Specification-Version: 9.6
+=======
+OpenIDE-Module-Specification-Version: 9.5.1
+>>>>>>> release90
 OpenIDE-Module-Localizing-Bundle: org/openide/execution/Bundle.properties
 OpenIDE-Module-Recommends: org.openide.execution.ExecutionEngine
 AutoUpdate-Essential-Module: true

@@ -1,6 +1,10 @@
 Manifest-Version: 1.0
 OpenIDE-Module: org.netbeans.modules.java.source.queries
 OpenIDE-Module-Localizing-Bundle: org/netbeans/modules/java/source/queries/Bundle.properties
+<<<<<<< HEAD
 OpenIDE-Module-Specification-Version: 1.21
+=======
+OpenIDE-Module-Specification-Version: 1.20.1
+>>>>>>> release90
 OpenIDE-Module-Needs: org.netbeans.modules.java.source.queries.spi.QueriesController
 Netigso-Export-Package: org.netbeans.modules.java.source.queries.api,org.netbeans.modules.java.source.queries.spi

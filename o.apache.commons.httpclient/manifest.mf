@@ -1,2 +1,6 @@
 OpenIDE-Module: org.apache.commons.httpclient
+<<<<<<< HEAD
 OpenIDE-Module-Specification-Version: 3.8
+=======
+OpenIDE-Module-Specification-Version: 3.7.1
+>>>>>>> release90

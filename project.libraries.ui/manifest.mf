@@ -1,5 +1,9 @@
 Manifest-Version: 1.0
 OpenIDE-Module: org.netbeans.modules.project.libraries.ui/1
 OpenIDE-Module-Localizing-Bundle: org/netbeans/modules/project/libraries/ui/Bundle.properties
+<<<<<<< HEAD
 OpenIDE-Module-Specification-Version: 1.55
+=======
+OpenIDE-Module-Specification-Version: 1.54.1
+>>>>>>> release90
 

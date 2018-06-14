@@ -2,5 +2,9 @@ Manifest-Version: 1.0
 OpenIDE-Module: org.openide.text
 OpenIDE-Module-Localizing-Bundle: org/openide/text/Bundle.properties
 AutoUpdate-Essential-Module: true
+<<<<<<< HEAD
 OpenIDE-Module-Specification-Version: 6.70
+=======
+OpenIDE-Module-Specification-Version: 6.69.1
+>>>>>>> release90
 

@@ -2,6 +2,10 @@ Manifest-Version: 1.0
 OpenIDE-Module: org.netbeans.modules.usersguide/1
 OpenIDE-Module-Localizing-Bundle: org/netbeans/modules/usersguide/Bundle.properties
 OpenIDE-Module-Layer: org/netbeans/modules/usersguide/layer.xml
+<<<<<<< HEAD
 OpenIDE-Module-Specification-Version: 1.51
+=======
+OpenIDE-Module-Specification-Version: 1.50.1
+>>>>>>> release90
 AutoUpdate-Show-In-Client: false
 

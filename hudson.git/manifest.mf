@@ -1,5 +1,9 @@
 Manifest-Version: 1.0
 OpenIDE-Module: org.netbeans.modules.hudson.git
 OpenIDE-Module-Localizing-Bundle: org/netbeans/modules/hudson/git/Bundle.properties
+<<<<<<< HEAD
 OpenIDE-Module-Specification-Version: 1.21
+=======
+OpenIDE-Module-Specification-Version: 1.20.1
+>>>>>>> release90
 

@@ -2,6 +2,10 @@ Manifest-Version: 1.0
 AutoUpdate-Show-In-Client: false
 OpenIDE-Module: org.netbeans.lib.nbjshell
 OpenIDE-Module-Localizing-Bundle: org/netbeans/lib/nbjshell/Bundle.properties
+<<<<<<< HEAD
 OpenIDE-Module-Specification-Version: 1.5
+=======
+OpenIDE-Module-Specification-Version: 1.4.1
+>>>>>>> release90
 OpenIDE-Module-Needs: jshell.implementation
 OpenIDE-Module-Needs-Message: NetBeans do not ship implementation of Java Shell. You may run NetBeans with JDK9, which provides one.

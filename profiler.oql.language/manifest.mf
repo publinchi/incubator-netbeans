@@ -4,5 +4,9 @@ AutoUpdate-Show-In-Client: false
 OpenIDE-Module: org.netbeans.modules.profiler.oql.language/0
 OpenIDE-Module-Layer: org/netbeans/modules/profiler/oql/language/layer.xml
 OpenIDE-Module-Localizing-Bundle: org/netbeans/modules/profiler/oql/language/Bundle.properties
+<<<<<<< HEAD
 OpenIDE-Module-Specification-Version: 0.31
+=======
+OpenIDE-Module-Specification-Version: 0.30.1
+>>>>>>> release90
 

@@ -2,5 +2,9 @@ Manifest-Version: 1.0
 AutoUpdate-Show-In-Client: false
 OpenIDE-Module: org.netbeans.api.templates
 OpenIDE-Module-Localizing-Bundle: org/netbeans/modules/templates/Bundle.properties
+<<<<<<< HEAD
 OpenIDE-Module-Specification-Version: 1.11
+=======
+OpenIDE-Module-Specification-Version: 1.10.1
+>>>>>>> release90
 OpenIDE-Module-Recommends: org.netbeans.templates.IndentEngine

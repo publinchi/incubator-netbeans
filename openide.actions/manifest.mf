@@ -2,5 +2,9 @@ Manifest-Version: 1.0
 OpenIDE-Module: org.openide.actions
 OpenIDE-Module-Localizing-Bundle: org/openide/actions/Bundle.properties
 AutoUpdate-Essential-Module: true
+<<<<<<< HEAD
 OpenIDE-Module-Specification-Version: 6.42
+=======
+OpenIDE-Module-Specification-Version: 6.41.1
+>>>>>>> release90
 

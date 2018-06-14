@@ -3,4 +3,8 @@ OpenIDE-Module: org.netbeans.modules.web.browser.api
 OpenIDE-Module-Layer: org/netbeans/modules/web/browser/ui/resources/layer.xml
 OpenIDE-Module-Localizing-Bundle: org/netbeans/modules/web/browser/api/Bundle.properties
 OpenIDE-Module-Requires: org.openide.windows.WindowManager
+<<<<<<< HEAD
 OpenIDE-Module-Specification-Version: 1.48
+=======
+OpenIDE-Module-Specification-Version: 1.47.1
+>>>>>>> release90

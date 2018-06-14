@@ -3,5 +3,9 @@ AutoUpdate-Show-In-Client: false
 OpenIDE-Module: org.netbeans.modules.javafx2.platform
 OpenIDE-Module-Layer: org/netbeans/modules/javafx2/platform/layer.xml
 OpenIDE-Module-Localizing-Bundle: org/netbeans/modules/javafx2/platform/Bundle.properties
+<<<<<<< HEAD
 OpenIDE-Module-Specification-Version: 1.29
+=======
+OpenIDE-Module-Specification-Version: 1.28.1
+>>>>>>> release90
 

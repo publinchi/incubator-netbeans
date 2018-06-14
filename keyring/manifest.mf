@@ -2,6 +2,10 @@ Manifest-Version: 1.0
 OpenIDE-Module: org.netbeans.modules.keyring
 OpenIDE-Module-Layer: org/netbeans/modules/keyring/layer.xml
 OpenIDE-Module-Localizing-Bundle: org/netbeans/modules/keyring/Bundle.properties
+<<<<<<< HEAD
 OpenIDE-Module-Specification-Version: 1.27
+=======
+OpenIDE-Module-Specification-Version: 1.26.1
+>>>>>>> release90
 OpenIDE-Module-Recommends: org.netbeans.modules.keyring.impl
 

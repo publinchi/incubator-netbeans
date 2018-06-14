@@ -1,5 +1,9 @@
 Manifest-Version: 1.0
 OpenIDE-Module: org.netbeans.modules.java.editor.lib/1
 OpenIDE-Module-Localizing-Bundle: org/netbeans/lib/java/editor/Bundle.properties
+<<<<<<< HEAD
 OpenIDE-Module-Specification-Version: 1.41
+=======
+OpenIDE-Module-Specification-Version: 1.40.1
+>>>>>>> release90
 AutoUpdate-Show-In-Client: false
