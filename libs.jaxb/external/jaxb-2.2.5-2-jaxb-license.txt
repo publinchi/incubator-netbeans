@@ -1,10 +1,10 @@
-Name: JAX-WS
-Description: JAX-WS Reference Implementation
-Version: 2.2.6
+Name: JAXB
+Description: JAXB Reference Implementation
+Version: 2.2.5-2
 Origin: Oracle
-URL: http://jax-ws.java.net/
+URL: https://jaxb.java.net/
 License: CDDL-1.1
-Files: jaxws-2.2.6.zip, jaxws-2.2.6-api-doc.zip
+Files: jaxb-impl-2.2.5-2.jar
 
 COMMON DEVELOPMENT AND DISTRIBUTION LICENSE (CDDL) Version 1.1
 
